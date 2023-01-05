@@ -1,32 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "New note",
+        "text": "Hello this is a new note to test my application",
+        "id": "a6b60ce0-8ca3-11ed-9616-9d1d7e3f75f0"
     },
     {
-        "title": "hi",
-        "text": "hellllla"
-    },
-    {
-        "title": "test 2",
-        "text": "testy test"
-    },
-    {
-        "title": "hello",
-        "text": "hi\n"
-    },
-    {
-        "title": "pp",
-        "text": "pp"
-    },
-    {
-        "title": "hello note",
-        "text": "note hekki\n",
-        "id": "c575ec60-8c9c-11ed-ae36-ed6ee0160d5e"
-    },
-    {
-        "title": "note is it",
-        "text": "is it note",
-        "id": "d744cab0-8c9c-11ed-ae36-ed6ee0160d5e"
+        "title": "hello test",
+        "text": "this is a test",
+        "id": "02785880-8ca4-11ed-9644-171fc641514c"
     }
 ]

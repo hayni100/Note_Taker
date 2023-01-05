@@ -26,7 +26,7 @@ app.post("/api/notes", (req, res) => {
   res.json("sucess");
 
   //Deconstructing assigmnent for the items in req.body//
-  const { title, text} = req.body;
+  const {title, text} = req.body;
 
   //If all the required properties are present
   if (title && text) {
